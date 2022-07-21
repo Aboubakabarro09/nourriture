@@ -1,0 +1,271 @@
+.search{
+	text-align: left;
+	border: 25px black;
+	width: 600px;
+	border-radius: 35px;
+    padding: 18px;
+	outline: whitesmoke solid 3px;
+	margin-top: 15px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    position: static;
+}
+.submit{
+	width: 50px;
+	border: 25px;
+	border border-radius: 50px;
+	margin-right: 50px;
+	margin-left: 40px;
+
+}
+.a1{
+	border: 25px black;
+	border-radius: 35px;
+	margin-left: -110px;
+	color: gray;
+
+}
+.a2{
+	background: black;
+}
+.connexion{
+	font-size: 20 px;
+	text-align: center;
+	border: 10px;
+	background color: gris;
+	position: static;
+	align-items: center;
+	margin-left: 250px;
+
+
+}
+div.bt2{
+  width  : 50px;
+  height : 50px;
+  background : gris;
+  position: static;
+}
+
+.fa-solid.fa-bars{
+	cursor: pointer;
+	margin-top: 17px;
+	margin-bottom: 30px;
+}
+div.bt3 {
+    border: 1px solid;
+    border-radius: 50px;
+    border-color: blue;
+    padding: 6px;
+    width: 200px;
+    margin: auto;
+    text-align: auto;
+    cursor: pointer;   
+}
+
+div.bt4 {
+    border: 1px solid;
+    border-radius: 50px;
+    border-color: blue;
+    padding: 6px;
+    width: 200px;
+    margin: auto;
+    text-align: auto;
+    cursor: pointer;
+}
+
+div.bt5{
+	border: 1px solid;
+    border-radius: 50px;
+    border-color: blue;
+    padding: 6px;
+    width: 200px;
+    box-sizing: border-box;
+    margin: auto;
+    text-align: auto;
+    cursor: pointer;
+
+}
+div.bt6{
+	border: 1px solid;
+    border-radius: 50px;
+    border-color: blue;
+    padding: 6px;
+    width: 200px;
+    margin: auto;
+    box-sizing: border-box;
+    text-align: auto;
+    cursor: pointer;
+
+}
+
+div.bt7{
+	border: 1px solid;
+    border-radius: 50px;
+    border-color: blue;
+    padding: 6px;
+    width: 200px;
+    margin: auto;
+    box-sizing: border-box;
+    text-align: auto;
+    cursor: pointer;
+
+}
+div.bt8{
+	border: 1px solid;
+    border-radius: 50px;
+    border-color: blue;
+    padding: 6px;
+    width: 190px;
+    margin: auto;
+    box-sizing: border-box;
+    text-align: auto;
+    cursor: pointer;
+}
+
+div.bt9{
+	border: 1px solid;
+    border-radius: 10px;
+    border-color: gray;
+    padding: 10px;
+    width: 200px;
+    margin-top: 30px;
+    margin-right: 15px;
+    margin-left: 15px;
+    box-sizing: content-box;
+    cursor: pointer;
+}
+
+div.bt10{
+	border: 1px solid black;
+    border-radius: 10px;
+    border-color: gray;
+    padding: 10px;
+    width: 200px;
+    margin-top: 30px;
+    margin-right: 15px;
+    margin-left: 15px;
+    box-sizing: content-box;
+    cursor: pointer;
+}
+
+div.bt11{
+	border: 1px solid black;
+    border-radius: 10px;
+    border-color: gray;
+    padding: 10px;
+    width: 200px;
+    margin-top: 30px;
+    margin-right: 15px;
+    margin-left: 15px;
+    box-sizing: content-box;
+    cursor: pointer;
+}
+
+div.bt12{
+	border: 1px solid black;
+    border-radius: 10px;
+    border-color: gray;
+    padding: 10px;
+    width: 200px;
+    margin-top: 30px;
+    margin-right: 15px;
+    margin-left: 15px;
+    box-sizing: content-box;
+    cursor: pointer;
+}
+
+div.bt13{
+	border: 1px solid black;
+    border-radius: 10px;
+    border-color: gray;
+    padding: 10px;
+    width: 200px;
+    margin-top: 30px;
+    margin-right: 15px;
+    margin-left: 15px;
+    box-sizing: content-box;
+    cursor: pointer;
+}
+a{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	font-weight: 100px;
+}
+.bloc{
+	margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 290px;
+
+}
+
+.c{
+	text-align: right;
+	margin-top: 0;
+    color: black;
+}
+
+div.bt14{
+	border: 1px solid black;
+    border-radius: 10px;
+    border-color: gray;
+    padding: 10px;
+    width: 200px;
+    margin-top: 30px;
+    margin-right: 15px;
+    margin-left: 15px;
+    box-sizing: content-box;
+    cursor: pointer;
+}
+
+div.bt15{
+	border: 1px solid black;
+    border-radius: 10px;
+    border-color: gray;
+    padding: 10px;
+    width: 200px;
+    margin-top: 30px;
+    margin-right: 15px;
+    margin-left: 15px;
+    box-sizing: content-box;
+    cursor: pointer;
+}
+
+div.bt16{
+	border: 1px solid black;
+    border-radius: 10px;
+    border-color: gray;
+    padding: 10px;
+    width: 200px;
+    margin-top: 30px;
+    margin-right: 15px;
+    margin-left: 15px;
+    box-sizing: content-box;
+    cursor: pointer;
+}
+div.bt17{
+	border: 1px solid black;
+    border-radius: 10px;
+    border-color: gray;
+    padding: 10px;
+    width: 200px;
+    margin-top: 30px;
+    margin-right: 15px;
+    margin-left: 15px;
+    box-sizing: content-box;
+    cursor: pointer;
+}
+
+div.bt18{
+	border: 1px solid black;
+    border-radius: 10px;
+    border-color: gray;
+    padding: 10px;
+    width: 200px;
+    margin-top: 30px;
+    margin-right: 15px;
+    margin-left: 15px;
+    box-sizing: content-box;
+    cursor: pointer;
+}
+
